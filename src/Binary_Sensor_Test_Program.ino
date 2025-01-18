@@ -1,6 +1,6 @@
 /*
 Simple program for use with Infrared binary reflective sensor.
-FC-51, SEN0503, SEN0553, FE18-D50NK and E18-D80NK. All Open Collector output.
+FC-51, SEN0503, SEN0523, FE18-D50NK and E18-D80NK. All Open Collector output.
 
 Jørgen Bo Madsen - V1 - September 2024 - dgmf@jorgen-madsen.dk
 -------------------------------------------------------------------------------------------------
